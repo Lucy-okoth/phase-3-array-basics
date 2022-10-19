@@ -36,10 +36,10 @@ one_two_three.concat(four_five)
 
 # pop and shift used to remove elements from the end of the beginning of an array
 
-# used to check if a particular element is present in an array
-letters = [ "a", "b", "c", "d", "e"]
-letters.include?("a")
-# sum method add every elemnt in an array
-[1,2,3].sum
-# uniq method for returning only the unique elements 
+# # used to check if a particular element is present in an array
+# letters = [ "a", "b", "c", "d", "e"]
+# letters.include?("a")
+# # sum method add every elemnt in an array
+# [1,2,3].sum
+# # uniq method for returning only the unique elements 
 
